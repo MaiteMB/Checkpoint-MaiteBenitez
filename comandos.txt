@@ -1,0 +1,20 @@
+Comandos utilizados 
+git innit 'https://github.com/MaiteMB/Checkpoint-MaiteBenitez'
+git add 
+git commit -m
+git push origin master
+git checkout -b feature
+mkdir Hardware Software SeguridadInformatica
+touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+git add .
+git commit -m "Agregar carpetas y archivos de resumen
+git push origin feature
+git checkout master
+git mv main.js resumenHardware.txt
+git mv index.html resumenSoftware.txt
+git add resumenHardware.txt resumenSoftware.txt
+git commit -m "Agregue carpetas y archivos en feature maitebenitez'
+touch comandos.txt
+git add comandos.txt
+git commit -m 'agrege archivos de comandos'
+git push origin master
