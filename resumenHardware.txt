@@ -1,0 +1,4 @@
+Ejemplos de Hardware
+1- Memoria Ram
+2- Memoria Rom
+3- Memoria Monitor
